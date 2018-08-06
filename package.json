@@ -1,0 +1,19 @@
+{
+  "name": "charmander",
+  "version": "1.0.0",
+  "description": "Responds to Discord users and fetches API from various games.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sero-dev/charmander-bot.git"
+  },
+  "author": "Sean Rodriguez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sero-dev/charmander-bot/issues"
+  },
+  "homepage": "https://github.com/sero-dev/charmander-bot#readme"
+}
