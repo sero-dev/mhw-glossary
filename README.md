@@ -1,2 +1,2 @@
-# Chief Ecologist
-Discord Bot that responds to Discord users and fetches API from various games.
+# Monster Hunter World Glossary
+Discord bot that acts as a glossary for Monster Hunter World

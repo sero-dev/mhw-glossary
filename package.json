@@ -1,21 +1,22 @@
 {
-  "name": "chief-ecologist",
+  "name": "mhw-glossary",
   "version": "1.0.0",
-  "description": "Responds to Discord users and fetches API from various games.",
+  "description": "Discord bot that acts as a glossary for Monster Hunter World",
   "main": "bot.js",
   "scripts": {
-    "start": "nodemon bot.js"
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sero-dev/chief-ecologist.git"
+    "url": "git+https://github.com/sero-dev/mhw-glossary.git"
   },
   "author": "Sean Rodriguez",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sero-dev/chief-ecologist/issues"
+    "url": "https://github.com/sero-dev/mhw-glossary/issues"
   },
-  "homepage": "https://github.com/sero-dev/chief-ecologist#readme",
+  "homepage": "https://github.com/sero-dev/mhw-glossary#readme",
   "dependencies": {
     "discord.js": "^11.3.2",
     "xmlhttprequest": "^1.8.0"
